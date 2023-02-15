@@ -8,7 +8,7 @@ I mostly wanted to make openai go to it's limits by making it create a dos atack
 
 ## The attempts
 
-As you know openai's policies don't let you just ask *How to make a dos attack using python...* because it will tell you that this is illegal. **But** if you make it write each piece of the code separately and you join the code you will have a dos cannon. So in the folder called *examples* there will be all the attempts.
+As you know openai's policies don't let you just ask *How to make a dos attack using python...* because it will tell you that this is illegal. **But** if you make it write each piece of the code separately and you join the code you will have a dos cannon. So in the folder called *attempts* there will be all the attempts.
 
 ## Running
 
